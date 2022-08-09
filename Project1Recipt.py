@@ -45,4 +45,7 @@ customer_one_total += customer_one_tax
 print ("Customer One Items:" + customer_one_itemization)
 
 print ("your total is : ")
+
 print (customer_one_total)
+
+print ("hello hans this is working you just need more practice")
